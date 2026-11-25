@@ -1,4 +1,5 @@
-python-telegram-bot==22.8
+python-telegram-bot[job-queue]==22.8
 google-genai==2.33.0
 python-dotenv==1.2.4
 requests==2.34.2
+pytz==2025.1
